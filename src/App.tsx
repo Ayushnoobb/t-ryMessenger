@@ -4,7 +4,7 @@ const App = () => {
     const MessengerRef = useRef<any>();
     useEffect(() => {
         if (MessengerRef.current) {
-            MessengerRef.current.setAttribute('page_id', process.env.NEXT_PUBLIC_APP_FB_PAGE_ID);
+            MessengerRef.current.setAttribute('page_id', 209191082594903);
             MessengerRef.current.setAttribute('attribution', 'biz_inbox');
         }
     
