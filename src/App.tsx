@@ -1,4 +1,4 @@
-import { useEffect, useRef } from "react";
+// import { useEffect, useRef } from "react";
 import ChatBot from "./Chatbot";
 
 const App = () => {
